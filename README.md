@@ -24,6 +24,7 @@ Version control is something that helps developers keep track of and manage a so
 
 <ul>
   <li>Branch</li>
+  <p> when a developer duplicates part of the source code. This allows the developer to make changes safely without changing the original file</p>
   <li>Clone</li>
   <li>Commit</li>
   <li>Fetch</li>
