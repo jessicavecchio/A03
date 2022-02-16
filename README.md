@@ -7,6 +7,7 @@
     It is a "distributed version control system" which means the entire code and its history is available on every developer's computer. This allows for easy branching and merging.</p>
 
   <h1>What is webstorm?</h1>
+  <h2>Sourced from: https://www.jetbrains.com/help/webstorm/meet-webstorm.html </h2>
   <p>"Webstorm is an integrated development enviornment for coding..." 
     Webstorm offers support for: JavaScript, TypeScript, React, Vue, Angular, Node.js, HTML, style sheets, and more.
     Webstorm includes a smart editor that is able to complete code, and detect erros. 
@@ -14,6 +15,7 @@
     Webstorm helps improve teamwork due to its "remote collaborative development and pair programming and the ability to share your project configuration with others."</p>
 
   <h1>What is github?</h1>
+  <h2>Sourced from: https://kinsta.com/knowledgebase/what-is-github/ </h2>
   <p>"GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code."
     Github is an open source version control.
     Version control is something that helps developers keep track of and manage a software project's code. 
@@ -21,6 +23,8 @@
 
 
   <h1>Directions on Using WebStorm:</h1>
+  <h2>Sourced from:Professor Mark S Chiusano's powerpoint</h2>
+    
   <ol>
     <li>Download Webstorm at: https://www.jetbrains.com/student/</li>
     <li>Install Git as a local program at: https://git-scm.com/</li>
@@ -107,6 +111,7 @@
 
 
   <h1>Glossary:</h1> 
+    <h2>Sourced from: https://docs.github.com/en/enterprise-server@3.0/get-started/quickstart/github-glossary </h2>
 
 <ul>
   <li>Branch:</li>
