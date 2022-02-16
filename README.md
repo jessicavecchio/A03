@@ -17,13 +17,50 @@
   <p>"GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code."
     Github is an open source version control.
     Version control is something that helps developers keep track of and manage a software project's code. 
-    Anyone can make an account and post public repositories for free.
-
-
-  </p>
+    Anyone can make an account and post public repositories for free.</p>
 
 
   <h1>Directions on Using WebStorm:</h1>
+  <ol>
+    <li>Download Webstorm at: https://www.jetbrains.com/student/</li>
+    <li>Install Git as a local program at: https://git-scm.com/</li>
+    <li>Create a Github account at: https://github.com/join</li>
+    <li>Connect Github with Webstorm:</li>
+      <ul>
+        <li>In Webstorm, go to system preferences</li>
+        <li>Select version control Git and enter the path to the git.exe</li>
+    </ul>
+    <li>Add Github password to Webstorm:</li>
+      <ul>
+        <li>In Webstorm, go to system preferences</li>
+        <li>Select apppearance and behavior</li>
+        <li>Select system settings</li>
+        <li>Select passwords</li>
+    </ul>
+    <li>Create a repository:</li>
+    <ul>
+      <li>Click the + sign in the upper right corner</li>
+      <li>Choose "create new repository</li>
+      <li>Make the repository public</li>
+      <li>Add a readMe file</li>
+      <li>Click create</li>
+    </ul>
+    <li>Create a repository from Webstorm:</li>
+    <ul>
+      <li>Select VCS and import into version control</li>
+    </ul>
+    <li>Import a repository from Github:</li>
+    <ul>
+      <li>From Webstorm, select VCS</li>
+      <li>Select checkout from version control</li>
+      <li>Select Git</li>
+      <li>OR</li>
+      <li>From main, select checkout from version control</li>
+      <li>Select Git</li>
+    </ul>
+    
+  
+  
 
 
 
