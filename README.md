@@ -176,7 +176,7 @@
     <li>https://kinsta.com/knowledgebase/what-is-github/</li>
     <li>https://www.jetbrains.com/help/webstorm/meet-webstorm.html</li>
     <li>Professor Mark S Chiusano's powerpoint</li>
-    <lihttps://docs.github.com/en/enterprise-server@3.0/get-started/quickstart/github-glossary</li>
+    <li>https://docs.github.com/en/enterprise-server@3.0/get-started/quickstart/github-glossary</li>
     
   </ul>
  
