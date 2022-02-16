@@ -104,34 +104,67 @@
     <ul>
       <li>Copy the Github.io URL into a browser</li>
     </ul>
-    
-    
-    
-  
-  
-
 
 
   <h1>Glossary:</h1> 
 
 <ul>
   <li>Branch:</li>
-  <p> when a developer duplicates part of the source code. This allows the developer to make changes safely without changing the original file</p>
+  <p> When a developer duplicates part of the source code. This allows the developer to make changes safely without changing the original file</p>
+  
   <li>Clone:</li>
+  <p>A copy of a repository that is housed on your computer instead of on a website server</p>
+  <p>When you edit the copy, you can use your editor and Git to keep track of changes</p>
+  <p>Since the clone is connected to your remote version, you can push your changes to the remote to keep them synced</p>
+  
   <li>Commit:</li>
-  <p>saving a change</p>
+  <p>A revision or change to a file</p>
+  <p>When you make a change, Git creates a unique ID that allows you to keep a record of the changes including who made them and when</p>
+  <p>The commits usually include a description of what changes were made</p>
+  
   <li>Fetch:</li>
+  <p>Adding changes from remote repository to your local branch without committing them</p>
+  <p>This allows you to review your changes before committing to your local branch</p>
+  
   <li>GIT:</li>
+  <p>An open source program that is used to track changes in text files</p>
+  <p>Created by the author of Linux</p>
+  <p>Core tech that Github is built on</p>
+  
   <li>Github:</li>
+  <p>"GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code."</p>
+  <p>Github is an open source version control</p>
+  <p>Version control is something that helps developers keep track of and manage a software project's code</p>
+  <p>Anyone can make an account and post public repositories for free</p>
+  
   <li>Merge:</li>
-  <p>moving the code back to the main source code in order to finalize the code</p>
+  <p>Moving the code back to the main source code in order to finalize the code</p>
+  <p>Takes changes from one branch and applies to another</p>
+  <p>Happens as a pull request</p>
+  
   <li>Merge Conflict:</li>
+  <p>A difference that happens between merged branches</p>
+  <p>This happens when people make changes to the same line of the same file or when someone edits a file that was deleted by someone else</p>
+  <p>A merge conflict has to be resolved before you can merge the branches</p>
+  
   <li>Push:</li>
+  <p>Sending your comkmitted changes to a remote repository on GitHub.com</p>
+  
   <li>Pull:</li>
-  <p>asking someone in charge of a branch of the repository to include your code in it</p>
+  <p>Asking someone in charge of a branch of the repository to include your code in it</p>
+  <p>Fetching changes and merging them</p>
+  
   <li>Remote:</li>
+  <p>A version of a repository or branch that is on a server</p>
+  <p>Remote versions can be connected to local versions so changes can be synced</p>
+  
   <li>Repository:</li>
-  <p>the source code</p>
+  <p>The source code</p>
+  <p>Most basic element of GitHub</p>
+  <p>A project folder</p>
+  <p>Contains all files apart of a project</p>
+  <p>Stores each file's revision history</p>
+  <p>Can be public or private and edited by multiple people</p>
   
   </ul>
 
@@ -143,6 +176,7 @@
     <li>https://kinsta.com/knowledgebase/what-is-github/</li>
     <li>https://www.jetbrains.com/help/webstorm/meet-webstorm.html</li>
     <li>Professor Mark S Chiusano's powerpoint</li>
+    <lihttps://docs.github.com/en/enterprise-server@3.0/get-started/quickstart/github-glossary</li>
     
   </ul>
  
