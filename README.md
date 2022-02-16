@@ -108,7 +108,7 @@
     </ul>
     <p></p>
     <p></p>
-    <p>Sourced from:Professor Mark S Chiusano's powerpoint</p>
+    <p>Sourced from: Introduction to Github and Webstorm by Arthur H. Hendela, Ph.D. Senior University Lecturer, NJIT</p>
 
 
   <h1>Glossary:</h1> 
@@ -180,10 +180,11 @@
   <h1>Sources:</h1>
  
   <ul>
-    <li>https://kinsta.com/knowledgebase/what-is-github/</li>
-    <li>https://www.jetbrains.com/help/webstorm/meet-webstorm.html</li>
-    <li>Professor Mark S Chiusano's powerpoint</li>
-    <li>https://docs.github.com/en/enterprise-server@3.0/get-started/quickstart/github-glossary</li>
+
+    <li>GitHub glossary. GitHub Docs. (n.d.). Retrieved February 16, 2022, from https://docs.github.com/en/enterprise-server@3.0/get-started/quickstart/github-glossary</li> 
+    <li>Introduction to Github and Webstorm by Arthur H. Hendela, Ph.D. Senior University Lecturer, NJIT</li>
+    <li>Meet Webstorm: Webstorm. WebStorm Help. (n.d.). Retrieved February 16, 2022, from https://www.jetbrains.com/help/webstorm/meet-webstorm.html</li>
+    <li>What is github? A beginner's introduction to github. Kinsta®. (2021, May 28). Retrieved February 16, 2022, from https://kinsta.com/knowledgebase/what-is-github/</li>
     
   </ul>
  
