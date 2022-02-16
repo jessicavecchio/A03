@@ -58,6 +58,48 @@
       <li>From main, select checkout from version control</li>
       <li>Select Git</li>
     </ul>
+      <ul>
+        <li>Enter Github repository name</li>
+        <li>Enter local path name</li>
+      </ul>
+    <li>Creating a Webstorm file:</li>
+    <ul>
+      <li>Select File</li>
+      <li>Select HTML</li>
+      <li>Select HTML 5</li>
+      <li>OR</li>
+      <li>Select File</li>
+      <li>Select Stylesheet</li>
+    </ul>
+    <li>Add files to Git:</li>
+    <ul>
+      <li>The 'Add to Git' dialog opens</li>
+      <li>Click add - this creates a local file system</li>
+    </ul>
+    <li>Commit your changes!</li>
+    <li>Push changes to remote repository:</li>
+    <ul>
+      <li>Click CTRL, Shift, and K</li>
+      <li>OR</li>
+      <li>Select VCS, then Git, then Push</li>
+    </ul>
+    <li>Your file is now on Github!!</li>
+    <li>Setting up Github pages:</li>
+    <ul>
+      <li>Select settings</li>
+      <li>Check your repository name</li>
+    </ul>
+    <li>Choose your Github page location</li>
+    <ul>
+      <li>Select 'Master Branch'</li>
+      <li>Take notes of the published URL</li>
+    </ul>
+    <li>Check your Github pages</li>
+    <ul>
+      <li>Copy the Github.io URL into a browser</li>
+    </ul>
+    
+    
     
   
   
@@ -94,6 +136,7 @@
   <ul>
     <li>https://kinsta.com/knowledgebase/what-is-github/</li>
     <li>https://www.jetbrains.com/help/webstorm/meet-webstorm.html</li>
+    <li>Professor Mark S Chiusano's powerpoint</li>
     
   </ul>
  
