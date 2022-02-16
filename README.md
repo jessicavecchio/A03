@@ -106,8 +106,9 @@
     <ul>
       <li>Copy the Github.io URL into a browser</li>
     </ul>
-    
-<p>Sourced from:Professor Mark S Chiusano's powerpoint</p>
+    <p></p>
+    <p></p>
+    <p>Sourced from:Professor Mark S Chiusano's powerpoint</p>
 
 
   <h1>Glossary:</h1> 
