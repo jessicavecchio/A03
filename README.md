@@ -54,7 +54,9 @@
       <li>From Webstorm, select VCS</li>
       <li>Select checkout from version control</li>
       <li>Select Git</li>
-      <li>OR</li>
+      <ul>
+        <li>OR</li>
+      </ul>
       <li>From main, select checkout from version control</li>
       <li>Select Git</li>
     </ul>
@@ -67,7 +69,9 @@
       <li>Select File</li>
       <li>Select HTML</li>
       <li>Select HTML 5</li>
-      <li>OR</li>
+      <ul>
+       <li>OR</li>
+      </ul>
       <li>Select File</li>
       <li>Select Stylesheet</li>
     </ul>
@@ -80,7 +84,9 @@
     <li>Push changes to remote repository:</li>
     <ul>
       <li>Click CTRL, Shift, and K</li>
-      <li>OR</li>
+      <ul>
+       <li>OR</li>
+      </ul>
       <li>Select VCS, then Git, then Push</li>
     </ul>
     <li>Your file is now on Github!!</li>
