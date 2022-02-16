@@ -181,10 +181,10 @@
  
   <ul>
 
-    <li>GitHub glossary. GitHub Docs. (n.d.). Retrieved February 16, 2022, from https://docs.github.com/en/enterprise-server@3.0/get-started/quickstart/github-glossary</li> 
-    <li>Introduction to Github and Webstorm by Arthur H. Hendela, Ph.D. Senior University Lecturer, NJIT</li>
-    <li>Meet Webstorm: Webstorm. WebStorm Help. (n.d.). Retrieved February 16, 2022, from https://www.jetbrains.com/help/webstorm/meet-webstorm.html</li>
-    <li>What is github? A beginner's introduction to github. Kinsta®. (2021, May 28). Retrieved February 16, 2022, from https://kinsta.com/knowledgebase/what-is-github/</li>
+    GitHub glossary. GitHub Docs. (n.d.). Retrieved February 16, 2022, from https://docs.github.com/en/enterprise-server@3.0/get-started/quickstart/github-glossary
+    Introduction to Github and Webstorm by Arthur H. Hendela, Ph.D. Senior University Lecturer, NJIT
+    Meet Webstorm: Webstorm. WebStorm Help. (n.d.). Retrieved February 16, 2022, from https://www.jetbrains.com/help/webstorm/meet-webstorm.html
+    What is github? A beginner's introduction to github. Kinsta®. (2021, May 28). Retrieved February 16, 2022, from https://kinsta.com/knowledgebase/what-is-github/
     
   </ul>
  
